@@ -11,7 +11,7 @@ public class PatientIntakeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PatientIntakeApplication.class, args);
 		try {
-			System.out.println("i made a change here jkjk update !!!");
+			System.out.println("i made a change here jupdate !!!");
 			ClinicMain.startConsole();
 		} catch (Throwable e) {
 			throw new RuntimeException(e);
